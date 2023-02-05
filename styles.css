@@ -5,7 +5,11 @@ html{
 body{
     display: block;
 }
-.index-header .recipe-title{
+.index-header {
+    text-align: center;
+}
+
+.recipe-title{
     text-align: center;
 }
 
