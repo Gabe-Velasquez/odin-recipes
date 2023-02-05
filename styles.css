@@ -5,9 +5,8 @@ html{
 body{
     display: block;
 }
-.index-header{
+.index-header .recipe-title{
     text-align: center;
-    
 }
 
 .content{
