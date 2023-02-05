@@ -1,6 +1,9 @@
 body{
     display: block;
 }
+.index-header{
+    text-align: center;
+}
 
 .content{
     display: flex;
