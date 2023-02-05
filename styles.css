@@ -11,8 +11,12 @@ body{
 
 .recipe-title{
     text-align: center;
+    padding: 3%;
 }
 
+.prep{
+    font-weight: bold;
+}
 .content{
     display: flex;
     gap: 40px; 
