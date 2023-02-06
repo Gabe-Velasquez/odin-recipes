@@ -63,3 +63,7 @@ img{
     overflow: clip;
     border-radius: 10%;
 }
+
+.footer{
+    text-align: end;
+}
