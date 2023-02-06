@@ -12,7 +12,7 @@ body{
 
 .recipe-title{
     text-align: center;
-    padding: 2%;
+    padding: 1%;
 }
 
 .prep{
@@ -36,7 +36,7 @@ body{
 .top-right{
 padding: 0 20px;
 border: 1px solid black;
-border-radius: 10%;
+border-radius: 7%;
 
 }
 
@@ -45,6 +45,9 @@ border-radius: 10%;
     border-radius: 10%;
 }
 
+.step h2{
+    text-align: center;
+}
 .content{
     display: flex;
     gap: 40px; 
