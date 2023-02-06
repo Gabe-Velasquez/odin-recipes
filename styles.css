@@ -61,4 +61,5 @@ div img{
 img{
     overflow-clip-margin: content-box;
     overflow: clip;
+    border-radius: 10%;
 }
