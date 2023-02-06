@@ -17,6 +17,27 @@ body{
 .prep{
     font-weight: bold;
 }
+.prep-card{
+    border-radius: 10px;
+    background-color: bisque;
+    padding: 20px;
+    flex-grow: 3;
+}
+
+.left{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-left: 30px;
+    width: 420px;
+    height: 900px;
+}
+.top-right{
+padding: 0 20px;
+border: 1px solid black;
+
+}
+
 .content{
     display: flex;
     gap: 40px; 
@@ -27,6 +48,9 @@ body{
 }
 .item{
     text-align: center;
+}
+div{
+    display: block;
 }
 
 div img{
